@@ -1,0 +1,12 @@
+C:\WebApp\Bulky\BulkyBook.Utility\bin\Debug\net8.0\BulkyBook.Utility.deps.json
+C:\WebApp\Bulky\BulkyBook.Utility\bin\Debug\net8.0\BulkyBook.Utility.dll
+C:\WebApp\Bulky\BulkyBook.Utility\bin\Debug\net8.0\BulkyBook.Utility.pdb
+C:\WebApp\Bulky\BulkyBook.Utility\obj\Debug\net8.0\BulkyBook.Utility.csproj.AssemblyReference.cache
+C:\WebApp\Bulky\BulkyBook.Utility\obj\Debug\net8.0\BulkyBook.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\WebApp\Bulky\BulkyBook.Utility\obj\Debug\net8.0\BulkyBook.Utility.AssemblyInfoInputs.cache
+C:\WebApp\Bulky\BulkyBook.Utility\obj\Debug\net8.0\BulkyBook.Utility.AssemblyInfo.cs
+C:\WebApp\Bulky\BulkyBook.Utility\obj\Debug\net8.0\BulkyBook.Utility.csproj.CoreCompileInputs.cache
+C:\WebApp\Bulky\BulkyBook.Utility\obj\Debug\net8.0\BulkyBook.Utility.dll
+C:\WebApp\Bulky\BulkyBook.Utility\obj\Debug\net8.0\refint\BulkyBook.Utility.dll
+C:\WebApp\Bulky\BulkyBook.Utility\obj\Debug\net8.0\BulkyBook.Utility.pdb
+C:\WebApp\Bulky\BulkyBook.Utility\obj\Debug\net8.0\ref\BulkyBook.Utility.dll

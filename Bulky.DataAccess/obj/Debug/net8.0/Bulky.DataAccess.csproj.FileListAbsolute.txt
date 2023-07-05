@@ -1,0 +1,17 @@
+C:\WebApp\Bulky\Bulky.DataAccess\bin\Debug\net8.0\Bulky.DataAccess.deps.json
+C:\WebApp\Bulky\Bulky.DataAccess\bin\Debug\net8.0\Bulky.DataAccess.runtimeconfig.json
+C:\WebApp\Bulky\Bulky.DataAccess\bin\Debug\net8.0\Bulky.DataAccess.dll
+C:\WebApp\Bulky\Bulky.DataAccess\bin\Debug\net8.0\Bulky.DataAccess.pdb
+C:\WebApp\Bulky\Bulky.DataAccess\bin\Debug\net8.0\Bulky.Models.dll
+C:\WebApp\Bulky\Bulky.DataAccess\bin\Debug\net8.0\Bulky.Models.pdb
+C:\WebApp\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.csproj.AssemblyReference.cache
+C:\WebApp\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\WebApp\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.AssemblyInfoInputs.cache
+C:\WebApp\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.AssemblyInfo.cs
+C:\WebApp\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.csproj.CoreCompileInputs.cache
+C:\WebApp\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.csproj.CopyComplete
+C:\WebApp\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.dll
+C:\WebApp\Bulky\Bulky.DataAccess\obj\Debug\net8.0\refint\Bulky.DataAccess.dll
+C:\WebApp\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.pdb
+C:\WebApp\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.genruntimeconfig.cache
+C:\WebApp\Bulky\Bulky.DataAccess\obj\Debug\net8.0\ref\Bulky.DataAccess.dll
